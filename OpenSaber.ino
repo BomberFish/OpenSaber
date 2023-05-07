@@ -1,6 +1,6 @@
 //bomberfish
 
-// OpenSaber: open-source diy lightsaber
+// OpenSaber: Open-source DIY lightsaber
 
 #include <FastLED.h>
 
