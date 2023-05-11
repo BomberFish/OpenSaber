@@ -1,5 +1,5 @@
 # OpenSaber
-An open-source DIY lightsaber. Very work-in-progress.
+An open-source ESP8266-based DIY lightsaber. Very work-in-progress.
 
 ## Features/TODO: 
 - [x] Interface with an LED Strip
